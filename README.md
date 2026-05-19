@@ -11,8 +11,6 @@ and displays them on a website as beautiful news cards with:
 - Short descriptions
 - Read More buttons
 
----
-
 # Features
 
 ✅ Automatically fetches latest X posts  
@@ -27,8 +25,6 @@ and displays them on a website as beautiful news cards with:
 - Netlify
 - Vercel
 
----
-
 # Technologies Used
 
 - HTML5
@@ -36,8 +32,6 @@ and displays them on a website as beautiful news cards with:
 - JavaScript
 - RSS Feed
 - RSS2JSON API
-
----
 
 # Setup Instructions
 
